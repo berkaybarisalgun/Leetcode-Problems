@@ -6,28 +6,36 @@ public class Solution {
     public int longestConsecutive(int[] nums) {
 
         Arrays.sort(nums);
-        int fin=0;
-        int count=1;
-        int begin=0;
+
+
+
+        int max = 0;
+        int count=0;
+
         for(int i=0;i<nums.length-1;i++){
-            if(nums[begin]==nums[begin+1]-1&&nums[begin]!=nums[begin+1]){
+            System.out.println(nums[i]);
+            System.out.println(nums[i+1]);
+
+            if(nums[i]+1==nums[i+1]){
+
                 count++;
-                begin++;
-                if(nums[i+1]==nums[nums.length-1]){
-                    fin=count;
+                System.out.println("i+1:"+(i+2));
+                System.out.println("length:"+nums.length);
+                if((i+2)==nums.length){
+                    System.out.println("buradayim");
+                    max=count;
+                    return max+1;
                 }
             }
             else{
-                if(count>fin){
-                    fin=count;
+                if (count > max) {
+                    max=count;
+                    count=0;
                 }
-                count=0;
-                begin=i+1;
             }
+            System.out.println("count:"+count);
+            System.out.println("----------------");
         }
-
-        return fin;
-        
-
+        return max+1;
     }
 }
