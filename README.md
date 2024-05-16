@@ -11,6 +11,8 @@ This repository tracks my progress through the roadmap of LeetCode challenges as
 
 - [x] [Problem 3: Two Sum](https://github.com/berkaybarisalgun/Leetcode-Problems/blob/main/Leetcode/src/main/java/Two_Sum_1/Solution2.java) - Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target. For the problem description, see [Two Sum on LeetCode](https://leetcode.com/problems/two-sum/description/).
 
+- [X] [Problem 4: Group Anagrams](https://github.com/berkaybarisalgun/Leetcode-Problems/blob/main/Leetcode/src/main/java/Group_Anagrams_49/Solution.java) - Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target. For the problem description, see [Group Anagrams LeetCode](https://leetcode.com/problems/group-anagrams/).
+
 
 
 
