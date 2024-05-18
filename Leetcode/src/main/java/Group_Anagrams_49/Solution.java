@@ -14,10 +14,7 @@ class Solution {
             String notSorted=new String(s);
             Arrays.sort(s);
             String sorted=new String(s);
-            if(!hash.containsKey(sorted)){
-                hash.put(sorted,new ArrayList<>());
-            }
-            hash.get(sorted).add(notSorted);
+            hash.computeIfAbsent(sorted,k -> new ArrayList<>()).add(notSorted);
         }
         return new ArrayList<>(hash.values());
     }
