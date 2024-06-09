@@ -5,26 +5,25 @@ public class Solution {
         int[] arr = new int[nums.length];
 
         int left = 0;
-        int right = nums.length;
+        int right = nums.length-1;
         int leftSum = 1;
         int rightSum = 1;
 
-        for (int i = 0; i < nums.length; i++) {
-            while (left != i) {
-                leftSum *= nums[left];
+        for(int i=0;i<nums.length;i++){
+            while(left<i){
+                leftSum*=nums[left];
                 left++;
             }
-            while (right - 1 != i) {
-                rightSum *= nums[right - 1];
+            while(right>i){
+                rightSum*=nums[right];
                 right--;
             }
             arr[i] = leftSum * rightSum;
-            left = 0;
-            right = nums.length;
-            leftSum = 1;
-            rightSum = 1;
+            leftSum=1;
+            rightSum=1;
+            left=0;
+            right=nums.length-1;
         }
-
         return arr;
     }
 }
