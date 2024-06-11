@@ -5,6 +5,7 @@ public class Main {
         BruteForceSolution bruteForceSolution =new BruteForceSolution();
         Solution solution=new Solution();
         ForbiddenSolution forbiddenSolution=new ForbiddenSolution();
+        BestSolution bestSolution=new BestSolution();
 
         int[] array=new int[6];
         array[0]=1;
@@ -17,6 +18,7 @@ public class Main {
         //forbiddenSolution.productExceptSelf(array); in here we have divide by "0" problem
         //optSol.productExceptSelf(array);
         //bruteForceSolution.productExceptSelf(array);
-        solution.productExceptSelf(array);
+        //solution.productExceptSelf(array);
+        bestSolution.productExceptSelf(array);
     }
 }
