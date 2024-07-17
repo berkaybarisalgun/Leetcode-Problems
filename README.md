@@ -19,3 +19,6 @@ This repository tracks my progress through the roadmap of LeetCode challenges as
 
 - [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) - Given an integer array nums, return an array answer such that answer[i] is equal to the product of all the elements of nums except nums[i]. For the solution, see [Product of Array Except Self on GitHub](https://github.com/berkaybarisalgun/Leetcode-Problems/blob/main/Leetcode/src/main/java/Products_of_Array_Discluding_Self_238/BestSolution.java). There is also a solution provided by ChatGPT, make sure to check it out in the solutions directory.
 
+- [x] [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/?envType=study-plan-v2&envId=top-interview-150) - Transform roman numbers to integer numbers, see [Roman To Integer](https://github.com/berkaybarisalgun/Leetcode-Problems/blob/main/Leetcode/src/main/java/Roman_To_Integer_13/Solution.java).
+
+
