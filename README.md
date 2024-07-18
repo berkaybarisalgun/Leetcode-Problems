@@ -21,4 +21,6 @@ This repository tracks my progress through the roadmap of LeetCode challenges as
 
 - [x] [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/?envType=study-plan-v2&envId=top-interview-150) - Transform roman numbers to integer numbers, see [Roman To Integer](https://github.com/berkaybarisalgun/Leetcode-Problems/blob/main/Leetcode/src/main/java/Roman_To_Integer_13/Solution.java).
 
+- [x] [Ransom Note](https://leetcode.com/problems/ransom-note/) - Given two strings ransomNote and magazine, return true if ransomNote can be constructed by using the letters from magazine and false otherwise. For the solution, see [Ransom Note](https://github.com/berkaybarisalgun/Leetcode-Problems/blob/main/Leetcode/src/main/java/Ransom_Note_383/OptimalSolution.java).
+
 
