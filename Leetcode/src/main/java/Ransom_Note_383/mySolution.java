@@ -3,7 +3,6 @@ package Ransom_Note_383;
 import java.util.HashMap;
 
 public class mySolution {
-    class Solution {
         public boolean canConstruct(String ransomNote, String magazine) {
             HashMap<Character, Integer> hash = new HashMap<>();
 
@@ -20,8 +19,5 @@ public class mySolution {
                     .anyMatch(value -> value>0);
 
             return !result;
-
-
-        }
     }
 }
