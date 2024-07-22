@@ -21,9 +21,10 @@ This repository tracks my progress through the roadmap of LeetCode challenges as
 
 - [x] [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/?envType=study-plan-v2&envId=top-interview-150) - Transform roman numbers to integer numbers, see [Roman To Integer](https://github.com/berkaybarisalgun/Leetcode-Problems/blob/main/Leetcode/src/main/java/Roman_To_Integer_13/Solution.java).
 
-- [x] [Ransom Note](https://leetcode.com/problems/ransom-note/) - Given two strings ransomNote and magazine, return true if ransomNote can be constructed by using the letters from magazine and false otherwise. For the solution, see [Ransom Note](https://github.com/berkaybarisalgun/Leetcode-Problems/blob/main/Leetcode/src/main/java/Ransom_Note_383/OptimalSolution.java).
+- [x] [Ransom Note](https://leetcode.com/problems/ransom-note/) - Given two strings ransomNote and magazine, return true if ransomNote can be constructed by using the letters from magazine and false otherwise. For the solution, see [Ransom Note on GitHub](https://github.com/berkaybarisalgun/Leetcode-Problems/blob/main/Leetcode/src/main/java/Ransom_Note_383/OptimalSolution.java).
 
-- [x] [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) - Given two strings s and t, determine if they are isomorphic. Two strings s and t are isomorphic if the characters in s can be replaced to get t. For the solution, see [Isomorphic Strings](https://github.com/berkaybarisalgun/Leetcode-Problems/blob/main/Leetcode/src/main/java/Isomorphic_Strings_205/myEffectiveSolution.java).
+- [x] [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) - Given two strings s and t, determine if they are isomorphic. Two strings s and t are isomorphic if the characters in s can be replaced to get t. For the solution, see [Isomorphic Strings on GitHub](https://github.com/berkaybarisalgun/Leetcode-Problems/blob/main/Leetcode/src/main/java/Isomorphic_Strings_205/myEffectiveSolution.java).
+- [x] [Word Pattern](https://leetcode.com/problems/word-pattern/description/?envType=study-plan-v2&envId=top-interview-150) - Given a pattern and a string s, find if s follows the same pattern. Here follow means a full match, such that there is a bijection between a letter in pattern and a non-empty word in s. For the solution, see [Word Pattern on GitHub](https://github.com/berkaybarisalgun/Leetcode-Problems/blob/main/Leetcode/src/main/java/Word_Pattern_290/Solution.java).
 
 
 
