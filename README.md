@@ -30,6 +30,8 @@ This repository tracks my progress through the roadmap of LeetCode challenges as
 - [x] [Happy Number](https://leetcode.com/problems/happy-number/description/?envType=study-plan-v2&envId=top-interview-150) - Write an algorithm to determine if a number n is happy.
 For the solution, see [Happy Number on GitHub](https://github.com/berkaybarisalgun/Leetcode-Problems/blob/main/Leetcode/src/main/java/Happy_Number_202/Solution.java).
 
+- [x] [Contains Duplicate II](https://leetcode.com/problems/happy-number/description/?envType=study-plan-v2&envId=top-interview-150) - Given an integer array nums and an integer k, return true if there are two distinct indices i and j in the array such that nums[i] == nums[j] and abs(i - j) <= k. For the solution, see [Contains Duplicate II on GitHub](https://github.com/berkaybarisalgun/Leetcode-Problems/blob/main/Leetcode/src/main/java/Contains_Duplicate2_219/Solution.java).
+
 
 
 
