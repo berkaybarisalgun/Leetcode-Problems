@@ -32,6 +32,8 @@ For the solution, see [Happy Number on GitHub](https://github.com/berkaybarisalg
 
 - [x] [Contains Duplicate II](https://leetcode.com/problems/happy-number/description/?envType=study-plan-v2&envId=top-interview-150) - Given an integer array nums and an integer k, return true if there are two distinct indices i and j in the array such that nums[i] == nums[j] and abs(i - j) <= k. For the solution, see [Contains Duplicate II on GitHub](https://github.com/berkaybarisalgun/Leetcode-Problems/blob/main/Leetcode/src/main/java/Contains_Duplicate2_219/Solution.java).
 
+- [x] [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) - Determine if a 9 x 9 Sudoku board is valid. Only the filled cells need to be validated. For the solution, see [Valid Sudoku on GitHub](https://github.com/berkaybarisalgun/Leetcode-Problems/blob/main/Leetcode/src/main/java/Valid_Sudoku_36/Solution.java).
+
 
 
 
