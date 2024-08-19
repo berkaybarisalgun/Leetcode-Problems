@@ -34,6 +34,9 @@ For the solution, see [Happy Number on GitHub](https://github.com/berkaybarisalg
 
 - [x] [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) - Determine if a 9 x 9 Sudoku board is valid. Only the filled cells need to be validated. For the solution, see [Valid Sudoku on GitHub](https://github.com/berkaybarisalgun/Leetcode-Problems/blob/main/Leetcode/src/main/java/Valid_Sudoku_36/Solution.java).
 
+- [x] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) - Given an unsorted array of integers nums, return the length of the longest consecutive elements sequence. For the solution, see [Longest Consecutive Sequence on GitHub](https://github.com/berkaybarisalgun/Leetcode-Problems/blob/main/Leetcode/src/main/java/Longest_Consecutive_Sequence_128/Solution.java).
+
+- [x] [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/description/) - Given an array of strings arr, and an integer k, return the kth distinct string present in arr. If there are fewer than k distinct strings, return an empty string "". For the solution, see [Kth Distinct String in an Array](https://github.com/berkaybarisalgun/Leetcode-Problems/blob/main/Leetcode/src/main/java/Kth_Distinct_String_in_an_Array/Solution.java).
 
 
 
