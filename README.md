@@ -37,7 +37,10 @@ For the solution, see [Happy Number on GitHub](https://github.com/berkaybarisalg
 - [x] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) - Given an unsorted array of integers nums, return the length of the longest consecutive elements sequence. For the solution, see [Longest Consecutive Sequence on GitHub](https://github.com/berkaybarisalgun/Leetcode-Problems/blob/main/Leetcode/src/main/java/Longest_Consecutive_Sequence_128/Solution.java).
 
 - [x] [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/description/) - Given an array of strings arr, and an integer k, return the kth distinct string present in arr. If there are fewer than k distinct strings, return an empty string "". For the solution, see [Kth Distinct String in an Array](https://github.com/berkaybarisalgun/Leetcode-Problems/blob/main/Leetcode/src/main/java/Kth_Distinct_String_in_an_Array/Solution.java).
+
 - [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) - Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid. For the solution, see [Valid Parentheses](https://github.com/berkaybarisalgun/Leetcode-Problems/blob/main/Leetcode/src/main/java/Valid_Parentheses_20/Solution.java).
+
+- [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) - You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock. For the solution, see [Best Time to Buy and Sell Stock](https://github.com/berkaybarisalgun/Leetcode-Problems/blob/main/Leetcode/src/main/java/Best_Time_To_Buy_And_Sell_Stock_121/OptimalSolution.java).
 
 
 
