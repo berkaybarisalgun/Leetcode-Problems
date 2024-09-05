@@ -42,6 +42,10 @@ For the solution, see [Happy Number on GitHub](https://github.com/berkaybarisalg
 
 - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) - You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock. For the solution, see [Best Time to Buy and Sell Stock](https://github.com/berkaybarisalgun/Leetcode-Problems/blob/main/Leetcode/src/main/java/Best_Time_To_Buy_And_Sell_Stock_121/OptimalSolution.java).
 
+- [x] [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) - Given a 1-indexed array of integers numbers that is already sorted in non-decreasing order, find two numbers such that they add up to a specific target number. Let these two numbers be numbers[index1] and numbers[index2] where 1 <= index1 < index2 <= numbers.length. For the solution, see [167. Two Sum II - Input Array Is Sorted](https://github.com/berkaybarisalgun/Leetcode-Problems/blob/main/Leetcode/src/main/java/Two_Sum_II_167/OptimalSolution.java).
+
+
+
 
 
 
