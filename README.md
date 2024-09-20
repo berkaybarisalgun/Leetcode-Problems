@@ -44,6 +44,10 @@ For the solution, see [Happy Number on GitHub](https://github.com/berkaybarisalg
 
 - [x] [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) - Given a 1-indexed array of integers numbers that is already sorted in non-decreasing order, find two numbers such that they add up to a specific target number. Let these two numbers be numbers[index1] and numbers[index2] where 1 <= index1 < index2 <= numbers.length. For the solution, see [167. Two Sum II - Input Array Is Sorted](https://github.com/berkaybarisalgun/Leetcode-Problems/blob/main/Leetcode/src/main/java/Two_Sum_II_167/OptimalSolution.java).
 
+- [x] [Min Stack](https://leetcode.com/problems/min-stack/description/) - Design a stack that supports push, pop, top, and retrieving the minimum element in constant time. For the solution, see [Min Stack](https://github.com/berkaybarisalgun/Leetcode-Problems/blob/main/Leetcode/src/main/java/Min_Stack_155/MinStack.java).
+
+
+
 
 
 
